@@ -7,6 +7,8 @@ I'm an Artificial Intelligence Researcher based in Spain, with a strong foundati
 - **Bachelor of Science in Computer Engineering**, Technical University of Madrid (CGPA: 7.00)
 
 ## 💼 Professional Experience
+- **Artificial Intelligence Developer**, Royal Spanish Academy (RAE), Madrid
+  - Project [LEIA](https://www.rae.es/noticia/que-es-leia)
 - **Artificial Intelligence Researcher**, Ontology Engineering Group, Technical University of Madrid
   - Specializing in Python, Docker, Flask, NLTK, spaCy, and full-stack programming.
   - Designed and implemented innovative NLP algorithms for automatic text adaptation.

@@ -1,6 +1,6 @@
 # Hello, I'm Alejandro Muñoz Navarro! 👋
 
-I'm an Artificial Intelligence Researcher based in Spain, with a strong foundation in computer engineering and a passion for developing innovative AI solutions. Currently, I'm exploring the frontiers of AI at the Ontology Engineering Group, Technical University of Madrid, focusing on Natural Language Processing (NLP) to make information more accessible.
+I'm an Artificial Intelligence Researcher based in Spain, with a strong foundation in computer engineering and a passion for developing innovative AI solutions. Currently, I'm exploring the frontiers of AI at the Royal Spanish Academy (RAE).
 
 ## 📚 Education
 - **Master of Science in Artificial Intelligence**, Technical University of Madrid (CGPA: 8.13)
